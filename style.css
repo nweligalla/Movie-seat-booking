@@ -151,3 +151,26 @@ footer{
   width: 100%;
   background-color: #181724;
 }
+
+
+.modal-header{
+  border: none;
+}
+.modal-content{
+  background-color: #3d387b;
+}
+
+.modal-footer{
+  border: none;
+}
+
+.form-group{
+  margin-bottom: 13px;
+}
+
+
+
+.form-group label{
+  margin-bottom: 5px;
+}
+
